@@ -1,8 +1,8 @@
 { 
     "username": "OMG",
     "password": "zjarhd12!",
-    "database": "omg-sqldb",
-    "host": "omg-sqlsvr.database.windows.net",
+    "database": "omg2-sqldb",
+    "host": "omg2-sqlsvr.database.windows.net",
     "port": 1443,
     "dialect": "mssql",
     "pool": { "max": 5, "min": 0, "idle": 10000 }
